@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=simy
+comment0.target=TextView(Simulator)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ TextView\r\n
+comment1.params=step\ field
+comment1.target=void\ showStatus(int,\ Field)
+comment2.params=animalClass\ color
+comment2.target=void\ setColor(java.lang.Class,\ java.awt.Color)
+comment3.params=field
+comment3.target=boolean\ isViable(Field)
+numComments=4

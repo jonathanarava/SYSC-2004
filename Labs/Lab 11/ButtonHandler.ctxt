@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=counter
+comment0.target=ButtonHandler(Counter)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ ButtonHandler\r\n
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment1.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+numComments=2

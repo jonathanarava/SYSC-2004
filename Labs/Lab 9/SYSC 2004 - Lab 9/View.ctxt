@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=animalClass\ color
+comment0.target=void\ setColor(java.lang.Class,\ java.awt.Color)
+comment0.text=\r\n\ Determine\ whether\ the\ simulation\ should\ continue\ to\ run.\r\n\ @return\ true\ If\ there\ is\ more\ than\ one\ species\ alive.\r\n
+comment1.params=field
+comment1.target=boolean\ isViable(Field)
+comment2.params=step\ field
+comment2.target=void\ showStatus(int,\ Field)
+numComments=3

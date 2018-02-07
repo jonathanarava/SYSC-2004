@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TicTacToe()
+comment0.text=\ \r\n\ Constructs\ a\ new\ Tic-Tac-Toe\ board.\r\n
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=
+comment3.target=void\ clearBoard()
+comment3.text=\r\n\ Sets\ everything\ up\ for\ a\ new\ game.\ \ Marks\ all\ squares\ in\ the\ Tic\ Tac\ Toe\ board\ as\ empty,\r\n\ and\ indicates\ no\ winner\ yet,\ 9\ free\ squares\ and\ the\ current\ player\ is\ player\ X.\r\n
+comment4.params=
+comment4.target=void\ playGame()
+comment4.text=\r\n\ Plays\ one\ game\ of\ Tic\ Tac\ Toe.\r\n
+comment5.params=row\ col
+comment5.target=boolean\ haveWinner(int,\ int)
+comment5.text=\r\n\ Returns\ true\ if\ filling\ the\ given\ square\ gives\ us\ a\ winner,\ and\ false\r\n\ otherwise.\r\n\r\n\ @param\ int\ row\ of\ square\ just\ set\r\n\ @param\ int\ col\ of\ square\ just\ set\r\n\ \r\n\ @return\ true\ if\ we\ have\ a\ winner,\ false\ otherwise\r\n
+comment6.params=
+comment6.target=void\ print()
+comment6.text=\r\n\ Prints\ the\ board\ to\ standard\ out\ using\ toString().\r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\r\n\ Returns\ a\ string\ representing\ the\ current\ state\ of\ the\ game.\ \ This\ should\ look\ like\r\n\ a\ regular\ tic\ tac\ toe\ board,\ and\ be\ followed\ by\ a\ message\ if\ the\ game\ is\ over\ that\ says\r\n\ who\ won\ (or\ indicates\ a\ tie).\r\n\r\n\ @return\ String\ representing\ the\ tic\ tac\ toe\ game\ state\r\n
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9

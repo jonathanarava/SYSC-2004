@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=l
+comment0.target=Counter(javax.swing.JLabel)
+comment1.params=m
+comment1.target=Counter(int)
+comment1.text=\r\n\ Another\ Constructor,\ this\ one\ takes\ a\ custom\ max\ value.\r\n\ \r\n\ @param\ m\ the\ max\ value\r\n
+comment2.params=min\ max
+comment2.target=Counter(int,\ int)
+comment2.text=\r\n\ A\ constructor\ where\ one\ can\ specify\ both\ the\ min\ and\ max\ values\r\n\ \r\n\ @param\ min\ the\ min\ value\r\n\ @param\ max\ the\ max\ value\r\n
+comment3.params=
+comment3.target=int\ getValue()
+comment3.text=\r\n\ return\ the\ current\ value\ of\ the\ counter\r\n\ \r\n\ @return\ \ \ \ \ the\ current\ value\ \r\n
+comment4.params=
+comment4.target=boolean\ increment()
+comment4.text=\r\n\ increment\ the\ counter\r\n\ \r\n\ @return\ true\ if\ counter\ rolled\ over,\ false\ otherwise\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ @return\ a\ string\ representation\ of\ the\ counter\r\n
+numComments=6

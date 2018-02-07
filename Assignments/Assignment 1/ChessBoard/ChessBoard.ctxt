@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ ChessBoard()
+comment0.text=\r\n\ The\ constructor\ will\ initialize\ the\ chess\ board.\ The\ job\ of\ the\ constructor\ would\ be\ to\r\n\ initialize\ all\ the\ elements\ in\ your\ data\ structure\ to\ all\ nulls,\ as\ initially\ there\ aren't\ any\ pieces\ on\r\n\ the\ board.\ \r\n
+comment1.params=row\ col
+comment1.target=boolean\ isPieceAt(int,\ int)
+comment1.text=\r\nThe\ first\ one,\ isPieceAt,\ should,\ return\ true\ if\ a\ knight\ is\ located\ at\ the\ specified\ row\ and\r\ncolumn,\ or\ false\ if\ no\ piece\ exists\ at\ the\ current\ location\r\n
+numComments=2

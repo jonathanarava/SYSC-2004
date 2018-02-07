@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=randomAge\ field\ location
+comment0.target=Animal(boolean,\ Field,\ Location)
+comment1.params=
+comment1.target=boolean\ isAlive()
+comment1.text=\r\n\ Check\ whether\ the\ rabbit\ is\ alive\ or\ not.\r\n\ @return\ true\ if\ the\ rabbit\ is\ still\ alive.\r\n
+comment2.params=
+comment2.target=void\ setDead()
+comment2.text=\r\n\ Indicate\ that\ the\ rabbit\ is\ no\ longer\ alive.\r\n\ It\ is\ removed\ from\ the\ field.\r\n
+comment3.params=
+comment3.target=Location\ getLocation()
+comment3.text=\r\n\ Return\ the\ rabbit's\ location.\r\n\ @return\ The\ rabbit's\ location.\r\n
+comment4.params=newLocation
+comment4.target=void\ setLocation(Location)
+comment4.text=\r\n\ Place\ the\ rabbit\ at\ the\ new\ location\ in\ the\ given\ field.\r\n\ @param\ newLocation\ The\ rabbit's\ new\ location.\r\n
+comment5.params=
+comment5.target=Field\ getField()
+numComments=6
